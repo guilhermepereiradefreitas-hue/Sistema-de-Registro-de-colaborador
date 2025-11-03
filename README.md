@@ -88,7 +88,7 @@ Autor
 **Guilherme Pereira**
 - GitHub: [guilhermepereiradefreitas-hue](https://github.com/guilhermepereiradefreitas-hue)
 - Desenvolvedor Full Stack
-- Especialista em Python e Desenvolvimento de Sistemas
+- Estudanto Python e Desenvolvimento de Sistemas
 
 ---
 ⌨️ Desenvolvido por Guilherme Pereira
